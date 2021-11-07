@@ -1,0 +1,19 @@
+.nav-link{
+    font-size: 1.45rem;
+}
+
+.logo {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 2rem;
+}
+
+.nav-link-line-height{
+    margin-top: 0.45em;
+}
+
+.top-banner{
+    padding-top: 0rem;
+    margin-bottom: 0rem;
+    padding-bottom: 0rem;
+}
+
